@@ -1,0 +1,46 @@
+Gazebo multi-robot simulator, version 9.0.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1689670707 18998960) [Msg] Waiting for master.
+(1689670707 21400390) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1689670707 21431631) [Msg] Publicized address: 160.85.111.198
+(1689670707 21613494) Loaded .ini file from: "/home/prasun/.gazebo/gui.ini"
+(1689670708 468935761) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes1.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 469124445) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes1.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 469268772) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes2.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 469423296) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes2.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 469575889) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes3.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 469730101) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes3.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 469870943) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes4.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 470002321) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes4.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 470137150) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes5.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 470289863) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes5.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 470416001) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes6.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 470543057) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/boxes6.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 470669060) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/moving_boxes.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 470805652) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/outdoor_village.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 470954713) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/outdoor_village_3.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 471099334) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 471240343) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 471385646) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle_scenario0.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 471543020) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle_scenario0.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 471697889) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle_scenario1.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 471854225) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle_scenario1.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 472009013) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle_scenario2.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 472169518) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle_scenario2.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 472342516) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle_scenario3.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 472517855) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/simple_obstacle_scenario3.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 472677706) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/test_city_2.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 472835462) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/test_city_4.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 472981245) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/window.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 473192593) Invalid filename or directory["/home/prasun/catkin_ws/src/avoidance/avoidance/sim/worlds/window.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1689670708 509247635) [Err] [ModelDatabase.cc:235] No <database> tag in the model database database.config found here[http://gazebosim.org/models/]
+(1689670708 509275237) [Err] [ModelDatabase.cc:294] Unable to download model manifests
+(1689670708 655918975) [Wrn] [Event.cc:61] Warning: Deleting a connection right after creation. Make sure to save the ConnectionPtr from a Connect call
+(1689670709 19550906) No spacenav daemon found. Spacenav functionality is disabled
+(1689670709 641692045) [Msg] Loading heightmap: heightmap
+(1689670709 641749593) [Msg] Loading heightmap cache data: /home/prasun/.gazebo/paging/heightmap/gazebo_terrain_00000000.dat
+(1689670709 882742025) [Msg] Heightmap loaded. Process took: 0.241049 seconds
